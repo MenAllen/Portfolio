@@ -500,7 +500,8 @@ iframe.wait-autoplay {
 }
 
 .glightbox-clean .gdesc-inner {
-  padding: 22px 20px;
+/*  padding: 22px 20px; */
+  padding: 10px 10px;
 }
 
 .glightbox-clean .gslide-title {
@@ -509,7 +510,7 @@ iframe.wait-autoplay {
   font-family: arial;
   color: #000;
   margin-bottom: 19px;
-  line-height: 1.4em;
+  line-height: 1.4em;  
 }
 
 .glightbox-clean .gslide-desc {
